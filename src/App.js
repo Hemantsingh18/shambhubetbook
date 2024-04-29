@@ -37,7 +37,7 @@ function App() {
           <div className='p-6' >
             <div className='flex flex-row w-[100%] '>
               <img src={sports} className='h-96 h-sm-32 w-auto basis-1/2'  data-aos="fade-up" data-aos-offset="200" data-aos-delay="50" data-aos-duration="1500"/>
-              <div className='text-8xl font-bold basis-1/2 text-[#FFC100] font-serif mt-12 ' data-aos="fade-up" data-aos-offset="200" data-aos-delay="1000" data-aos-duration="2500">Instant Withdrawal</div>
+              <div className='text-8xl font-bold basis-1/2 text-[#C40C0C] font-serif mt-12 ' data-aos="fade-up" data-aos-offset="200" data-aos-delay="1000" data-aos-duration="2500">All Sports</div>
             </div>
           </div>
         </div>
